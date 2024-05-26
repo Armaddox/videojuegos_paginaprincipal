@@ -95,17 +95,17 @@ section {
     margin-bottom: 10px;
 }
 
-additional-image {
+.additional-image {
     display: flex;
     align-items: center; 
 }
 
-additional-image img {
+.additional-image img {
     max-width: 200px; 
     height: auto;
 }
 
-additional-image .description {
+.additional-image .description {
     margin-left: 20px; 
 }
 
